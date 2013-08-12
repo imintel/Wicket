@@ -55,8 +55,6 @@
            "url": "https://github.com/arthur-e/Wicket" 
        } 
    ],
-   "os": ["linux", "macos", "win"],
-   "cpu": ["x86", "ppc", "x86_64"],
    "engines": ["v8", "ejs", "node", "rhino"],
    "scripts": {
        "build": "refactor.sh",
